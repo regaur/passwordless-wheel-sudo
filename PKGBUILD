@@ -3,7 +3,7 @@
 pkgname='passwordless-wheel-sudo'
 pkgver=1.0
 pkgrel=1
-pkgdesc='Allow  members of group "wheel" to run sudo without requiring password'
+pkgdesc='Allow members of group "wheel" to run sudo without requiring a password'
 packager='Jan Boelsche'
 arch=('any')
 license=('GPL')
